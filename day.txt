@@ -2,7 +2,7 @@
 git
 git init
 git add .
-git git commit -m ""
+git commit -m ""
 git log
 git push origin master
 git pull origin master
